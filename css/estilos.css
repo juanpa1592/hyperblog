@@ -15,7 +15,26 @@ body {
     margin: 0 auto;
 }
 
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: .8em;
+}
+
+#cabecera {
+    background: #33A;
+    color: white;
+    margin: 0;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    padding: .5em;
+}
+
 #container h1 {
     font-size: 20px;
+}
+
+#post {
+    padding: 1em;
 }
 
